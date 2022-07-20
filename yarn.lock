@@ -57,8 +57,8 @@ angular-mocks@^1.6.2:
   resolved "https://registry.yarnpkg.com/angular-mocks/-/angular-mocks-1.6.2.tgz#fbb28208e74d3512769afdb8771f5cc5a99f9128"
 
 angular@^1.6.2:
-  version "1.6.2"
-  resolved "https://registry.yarnpkg.com/angular/-/angular-1.6.2.tgz#d0b677242ac4bf9ae81424297c6320973af4bb5a"
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.8.3.tgz#851ad75d5163c105a7e329555ef70c90aa706894"
 
 annois@0.3.0:
   version "0.3.0"
